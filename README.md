@@ -1,6 +1,7 @@
+<h1 align="center">Central Panhandle Aquatic Preserves</h1>
+
 <div align="center">
 
-# Central Panhandle Aquatic Preserves
 <img src="./images/RCP AP map_3057x3057_v2022.png" alt="Image1" />
 
 </div>
