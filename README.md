@@ -8,8 +8,8 @@ Central Panhandle Aquatic Preserve (CPAP), located in Northwest Florida, is resp
 
 ## Quick Links
 
-Florida Oyster Cultch Placement Restoration Project
-Cat Point Living Shoreline Restoration Project
-Florida Seagrass Recovery Project
-CPAP YSI Continual Water Quality Monitoring
+[Florida Oyster Cultch Placement Restoration Project](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/)
+[Cat Point Living Shoreline Restoration Project](https://matt-law12.github.io/cpap_shore/)
+[Florida Seagrass Recovery Project](https://matt-law12.github.io/cpap_seagrass/)
+[CPAP YSI Continual Water Quality Monitoring](https://matt-law12.github.io/cpap_wq/)
 
