@@ -1,6 +1,7 @@
 <div align="center">
 
 # Central Panhandle Aquatic Preserves
+![RCP AP map_3057x3057_v2022](https://github.com/user-attachments/assets/c607f75a-4503-4ddc-845b-39a57f1c63d1)
 
 </div>
 
