@@ -5,8 +5,16 @@
 <img src="./images/RCP AP map_3057x3057_v2022.png" alt="Image1" />
 
 </div>
-
-The Central Panhandle Aquatic Preserves (CPAP), located in Northwest Florida, is responsible for the management of four Aquatic Preserves: Alligator Harbor Aquatic Preserve (14,366 acres), Apalachicola Bay Aquatic Preserve (80,000 acres), St. Andrews Bay (25,000 acres), and St. Joseph Bay Aquatic Preserve (73,000 acres).
+The Aquatic Preserves are managed by the Florida Department of Environmental Protection's Office of Resilience and Coastal Protection.  <br />
+<br />
+The Central Panhandle Aquatic Preserves (CPAP) office, located in Northwest Florida, is responsible for the management of four Aquatic Preserves: <br />
+<br />
+•	Alligator Harbor Aquatic Preserve (14,366 acres, located in Franklin County) <br />
+•	Apalachicola Bay Aquatic Preserve (80,000 acres, located in Franklin County) <br />
+•	St. Andrews Bay (25,000 acres, located in Bay County) <br />
+•	St. Joseph Bay Aquatic Preserve (73,000 acres, located in Gulf County) <br />
+ <br />
+CPAP is responisible for research, restoration, and conservation efforts. Some of these efforts include the Florida Oyster Cultch Placement Restoration Project, Cat Point Living Shoreline Restoration Project, Florida Seagrass Recovery Project, and CPAP YSI Continual Water Quality Monitoring. 
 
 ## Quick Links
 
