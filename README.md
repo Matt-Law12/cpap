@@ -5,7 +5,7 @@
 <img src="./images/RCP AP map_3057x3057_v2022.png" alt="Image1" />
 
 </div>
-The Aquatic Preserves are managed by the Florida Department of Environmental Protection's Office of Resilience and Coastal Protection.  <br />
+Florida's Aquatic Preserves are state-owned sovereign submerged lands in areas which have exceptional biological, aesthetic, and scientific value, which have been set aside for the benefit of future generations. In total, there are 41 Aquatic Preseves located in the state of Florida, which seek to preserve the aesthetic, biological, and scientific values these areas provide. All 41 Aquatic Preserves are managed by the Florida Department of Environmental Protection's Office of Resilience and Coastal Protection. <br />
 <br />
 The Central Panhandle Aquatic Preserves (CPAP) office, located in Northwest Florida, is responsible for the management of four Aquatic Preserves: <br />
 <br />
@@ -14,7 +14,7 @@ The Central Panhandle Aquatic Preserves (CPAP) office, located in Northwest Flor
 •	St. Andrews Bay (25,000 acres, located in Bay County) <br />
 •	St. Joseph Bay Aquatic Preserve (73,000 acres, located in Gulf County) <br />
  <br />
-CPAP is responisible for research, restoration, and conservation efforts. Some of these efforts include the Florida Oyster Cultch Placement Restoration Project, Cat Point Living Shoreline Restoration Project, Florida Seagrass Recovery Project, and CPAP YSI Continual Water Quality Monitoring. 
+CPAP is responisible for research, restoration, and conservation efforts in these 4 preserves. Some of these efforts include the Florida Oyster Cultch Placement Restoration Project, Cat Point Living Shoreline Restoration Project, Florida Seagrass Recovery Project, and CPAP YSI Continual Water Quality Monitoring. 
 
 ## Quick Links
 
